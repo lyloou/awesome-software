@@ -1,0 +1,8 @@
+1. 双击安装【Navicat Premium 12.1.17.0 简体中文 64位.exe】,选择自己的安装路径（尽量不用默认位置）
+2. 管理员权限打开【Navicat Premium 12 注册机 V4.9.exe】
+3. 注册机：保持默认点击 【patch】, 选择第1步安装的 navicat.exe
+4. 注册机：可以保持名字和组织默认，点击【Generate】，复制Serial Keygen
+5. Navicat：打开第一步安装的 navicat，激活-> 手动激活 -> 输入第4步的 Serial Keygen
+6. Navicat：生成 Request Code，复制并粘贴到 注册机的 【Request Code】区域
+7. 点击注册机右下角的【Generate】，得到 Activation Code，
+8. Navicat：复制第7步的activation code并粘贴激活
